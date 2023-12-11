@@ -2,6 +2,7 @@ baseURL = 'https://aadi123.github.io/'
 languageCode = 'en-us'
 title = 'abhyāsa'
 theme = 'risotto'
+sectionPagesMenu = "main"
 
 [params.theme]
 palette = 'base16-onedark'
@@ -15,10 +16,4 @@ description = "Software Engineer. Musician. Boba Enthusiast."
     identifier = "about"
     name = "about"
     url = "/about/"
-    weight = 12
-
-  [[menu.main]]
-    identifier = "posts"
-    name = "posts"
-    url = "/posts/"
     weight = 12
