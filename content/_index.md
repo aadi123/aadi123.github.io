@@ -10,4 +10,4 @@ the [Risotto](https://github.com/joeroe/risotto) theme, and is hosted via
 [Github Pages](https://pages.github.com/). 
 
 
-I can be contacted at `aadi dot murthyananth at gmail dot com`. 
+I can be contacted at **aadi dot murthyananth at gmail dot com**. 

@@ -9,3 +9,16 @@ palette = 'base16-onedark'
 [params.about]
 title = "Aaditya Murthy"
 description = "Software Engineer. Musician. Boba Enthusiast."
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    url = "/about/"
+    weight = 12
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "posts"
+    url = "/posts/"
+    weight = 12
