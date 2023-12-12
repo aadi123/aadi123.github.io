@@ -1,6 +1,5 @@
 +++
 title = 'About Me'
-date = 2023-12-10T18:43:44-06:00
 +++
 Hello! I'm Aaditya (ಆದಿತ್ಯ, āditya), a Computer Scientist originally from Flower Mound, Texas.
 I also sing [Carnātic Music](https://en.wikipedia.org/wiki/Carnatic_music), a form of classical music that evolved in the Southern regions of India.
