@@ -20,4 +20,4 @@ I can be contacted at **aadi dot murthyananth at gmail dot com**. Feel free to e
 # Site Information
 This site uses [Hugo](https://gohugo.io/) as a static site generator,
 the [Risotto](https://github.com/joeroe/risotto) theme, and is hosted via
-[Github Pages](https://pages.github.com/). 
+[Github Pages](https://pages.github.com/).
