@@ -11,11 +11,13 @@ was at Amazon for two years (2020-2022) working on the Retail Tax Platform as we
 
 I have also had summer internship positions in Software Engineering at [vAuto](https://www.vauto.com/) and [Amazon](https://www.amazon.com).
 
+My full resumé is available upon request.
+
 # Education
-I studied Computer Science at [The University of Texas at Austin](cs.utexas.edu), and graduated in 2020 with a B.S. in Computer Science. Before that, I graduated in 2016 from Edward S. Marcus High School in Flower Mound, Texas.
+I studied Computer Science at [The University of Texas at Austin](https://www.cs.utexas.edu), and graduated in 2020 with a B.S. in Computer Science. Before that, I graduated in 2016 from Edward S. Marcus High School in Flower Mound, Texas.
 
 # Contact
-I can be contacted at **aadi dot murthyananth at gmail dot com**. Feel free to email me about opportunities at your company if you are a recruiter, but I may or may not respond depending on the opportunity. Feel free to also reach out if you just want to chat, always looking forward to gaining new ideas and perspectives from other individuals. Pointless or Repeated spamming will not be tolerated and will lead to a block.
+I can be contacted at `aadi dot murthyananth at gmail dot com`. I am not currently looking for a new job, but feel free to email me about opportunities at your company if you are a recruiter. Feel free to also reach out if you just want to chat, always looking forward to gaining new ideas and perspectives from other individuals. Pointless or Repeated spamming will not be tolerated and will lead to a block.
 
 # Site Information
 This site uses [Hugo](https://gohugo.io/) as a static site generator,
