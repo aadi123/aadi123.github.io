@@ -7,7 +7,7 @@ In my free time, I like to play chess, read a variety of books, and play basketb
 
 # Employment
 I am currently a Software Engineer at Toyota Connected on the Video Ingestion Team. Previously, I
-was at Amazon for two years (2020-2022) working on the Retail Tax Platform as well as the Data Platform for Amazon Scout before getting [laid off](https://www.geekwire.com/2023/the-end-of-everything-at-amazon-record-layoffs-signal-new-mindset-for-sprawling-tech-giant/).
+was at Amazon for two years (2020-2022) working on the Retail Tax Platform as well as the Data Platform for Amazon Scout.
 
 I have also had summer internship positions in Software Engineering at [vAuto](https://www.vauto.com/) and [Amazon](https://www.amazon.com).
 
