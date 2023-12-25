@@ -1,4 +1,4 @@
-Hello, and welcome to my website! The title of this website, abhyāsa, means *constant practice* in the ancient Sanskrit language, and alludes
+Hello, and welcome to my website! The title of this website, abhyāsa, means *constant practice* in the Sanskrit language, and refers
 to the hope that this website allows me to constantly practice my writing and critical thinking skills as I reflect on various topics related
 but not limited to: technology, finance, current events, music, and much more!
 
