@@ -1,4 +1,4 @@
-baseURL = 'https://aadi123.github.io'
+baseURL = 'http://localhost:1313/'
 languageCode = 'en-us'
 title = 'abhyāsa'
 theme = 'risotto'
@@ -16,12 +16,6 @@ description = "Software Engineer. Musician. Chess-Player. Boba Enthusiast."
     identifier = "about"
     name = "about"
     url = "/about/"
-    weight = 12
-
-  [[menu.main]]
-    identifier = "chess"
-    name = "chess"
-    url = "/chess/"
     weight = 12
 
   #[[menu.main]]

@@ -16,6 +16,14 @@ My full resumé is available upon request.
 # Education
 I studied Computer Science at [The University of Texas at Austin](https://www.cs.utexas.edu), and graduated in 2020 with a B.S. in Computer Science. Before that, I graduated in 2016 from Edward S. Marcus High School in Flower Mound, Texas.
 
+# Hobbies
+For fun, I like to play chess and sing Indian Classical Music.
+## Chess
+As many of you know, I was an avid chess player as a kid,
+and I'm trying to keep the hobby up by playing in tournaments and analyzing games. You can view a list of interesting
+positions I come across, either taken from my own games or from others' games, by navigating to the chess section using the
+navigation bar at the top of the website.
+
 # Contact
 I can be contacted at `aadi dot murthyananth at gmail dot com`. I am not currently looking for a new job, but feel free to email me about opportunities at your company if you are a recruiter. Feel free to also reach out if you just want to chat, always looking forward to gaining new ideas and perspectives from other individuals. Pointless or Repeated spamming will not be tolerated and will lead to a block.
 
