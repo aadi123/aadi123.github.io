@@ -3,7 +3,7 @@ title = 'About Me'
 +++
 Hello! I'm Aaditya (ಆದಿತ್ಯ, āditya), a Computer Scientist originally from Flower Mound, Texas.
 I also sing [Carnātic Music](https://en.wikipedia.org/wiki/Carnatic_music), a form of classical music that evolved in the Southern regions of India.
-In my free time, I like to play chess, read a variety of books, and play basketball.
+In my free time, I like to play [chess](https://www.uschess.org/msa/MbrDtlTnmtHst.php?13739907), read a variety of books, and play basketball.
 
 # Employment
 I am currently a Software Engineer at Toyota Connected on the Video Ingestion Team. Previously, I

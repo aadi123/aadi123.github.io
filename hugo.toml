@@ -1,4 +1,4 @@
-baseURL = 'https://aadi123.github.io/'
+baseURL = 'http://localhost:1313/'
 languageCode = 'en-us'
 title = 'abhyāsa'
 theme = 'risotto'
@@ -9,13 +9,19 @@ palette = 'base16-onedark'
 
 [params.about]
 title = "Aaditya Murthy"
-description = "Software Engineer. Musician. Boba Enthusiast."
+description = "Software Engineer. Musician. Chess-Player. Boba Enthusiast."
 
 [menu]
   [[menu.main]]
     identifier = "about"
     name = "about"
     url = "/about/"
+    weight = 12
+
+  [[menu.main]]
+    identifier = "chess"
+    name = "chess"
+    url = "/chess/"
     weight = 12
 
   #[[menu.main]]
