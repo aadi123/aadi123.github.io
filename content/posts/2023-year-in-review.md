@@ -24,6 +24,7 @@ have to pay rent yet, so I can save up a little more especially during tough eco
 One great thing about living back in Dallas means that my relationship with my parents has greatly improved.
 
 ### Involvement in Dallas Kannada and Indian Fine Arts Associations
+Another big part of being in Dallas is the Indian Fine Arts and Mallige Kannada Associations that exist in Dallas.
 
 ## About Chess
 
