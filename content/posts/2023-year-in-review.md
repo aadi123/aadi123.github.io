@@ -1,6 +1,7 @@
 +++
 title = '2023 Year in Review'
 date = 2024-02-14T12:36:43-06:00
+description = '2023 Year in Review'
 draft = true
 +++
 This is my year in review blog post. I know this is coming in hilariously late,
@@ -26,13 +27,18 @@ One great thing about living back in Dallas means that my relationship with my p
 ### Involvement in Dallas Kannada and Indian Fine Arts Associations
 Another big part of being in Dallas is the Indian Fine Arts and Mallige Kannada Associations that exist in Dallas.
 
-## About Chess
-
 ## About Carnatic Music
+talk about lackadaisical attitude.
 
-## Life Lessons Learned
+### Life Lessons Learned
 ### Letting Go
 ### Practicing Gratitude
 ### Avoiding Unnecesary Comparisons
 
 ## Looking forward to 2024
+    That being said, I am really looking forward to 2024. I think I have learned a lot of lessons last year.
+    This year, some goals I want to try to achieve include:
+    1. Reducing social media usage, especially Facebook, Instagram and Youtube.
+    2. Work on building personal projects in my areas of interest
+    3. Keep practicing Carnātic Music in my free time
+    4. Work on building a stable physical regimen.
