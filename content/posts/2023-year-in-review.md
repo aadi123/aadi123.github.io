@@ -27,8 +27,11 @@ One great thing about living back in Dallas means that my relationship with my p
 ### Involvement in Dallas Kannada and Indian Fine Arts Associations
 Another big part of being in Dallas is the Indian Fine Arts and Mallige Kannada Associations that exist in Dallas.
 
+## About Chess
+talk about passion for chess and how that was never realized. Realizing it now by going to the Candidates Tournament live
+in Toronto
 ## About Carnatic Music
-talk about lackadaisical attitude.
+talk about lackadaisical attitude. about wanting to quit. and then somehow restarting
 
 ### Life Lessons Learned
 ### Letting Go
