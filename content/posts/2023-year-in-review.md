@@ -31,7 +31,7 @@ Another big part of being in Dallas is the Indian Fine Arts and Mallige Kannada 
 talk about passion for chess and how that was never realized. Realizing it now by going to the Candidates Tournament live
 in Toronto
 ## About Carnatic Music
-talk about lackadaisical attitude. about wanting to quit. and then somehow restarting
+talk about lackadaisical attitude. about wanting to quit. And then hating it. and then somehow restarting.
 
 ### Life Lessons Learned
 ### Letting Go
