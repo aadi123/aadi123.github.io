@@ -8,7 +8,7 @@ This is my year in review blog post. I know this is coming in hilariously late,
 and I've missed all the different New Year holidays (Gregorian, Makara Sankranti, and Lunar New Year), but
 this post is better late than never.
 
-## About Work
+## About Work and Burnout
 As many of you may know, I had a pretty rough start to 2023. My org was affected by the
 round of [mass layoffs at Amazon](https://www.businessinsider.com/amazon-layoffs), leaving me stranded in the heart of
 Seattle. Thankfully, I was able pay an early termination fee to cancel my apartment lease, and move back in Dallas.
@@ -41,7 +41,7 @@ talk about lackadaisical attitude. about wanting to quit. And then hating it. an
 ## Looking forward to 2024
     That being said, I am really looking forward to 2024. I think I have learned a lot of lessons last year.
     This year, some goals I want to try to achieve include:
-    1. Reducing social media usage, especially Facebook, Instagram and Youtube.
+    1. Reducing social media usage, especially Facebook, Instagram and scrolling on YouTube shorts.
     2. Work on building personal projects in my areas of interest
     3. Keep practicing Carnātic Music in my free time
     4. Work on building a stable physical regimen.
