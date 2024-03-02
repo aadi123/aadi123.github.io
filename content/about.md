@@ -1,5 +1,5 @@
 +++
-title = 'About Me'
+title = 'About'
 +++
 Hello! I'm Aaditya (ಆದಿತ್ಯ, āditya), a Computer Scientist originally from Flower Mound, Texas.
 

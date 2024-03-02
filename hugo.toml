@@ -13,22 +13,3 @@ description = "Software Engineer. Musician. Chess-Player. Boba Enthusiast."
 
 [security]
   enableInlineShortcodes = true
-
-[menu]
-  [[menu.main]]
-    identifier = "about"
-    name = "about"
-    url = "/about/"
-    weight = 12
-
-  [[menu.main]]
-    identifier = "music"
-    name = "music"
-    url = "/music/"
-    weight = 12
-
-  #[[menu.main]]
-  #  identifier = "music"
-  #  name = "music"
-  #  url = "/music/"
-  #  weight = 12
