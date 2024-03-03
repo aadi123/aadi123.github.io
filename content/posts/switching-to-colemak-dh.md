@@ -26,4 +26,5 @@ Below is an ISO version of the Colemak Mod-DH layout
 ![Colemak Mod-DH](/images/colemak.png)
 
 As you can see, it is designed to keep a lot of the vowels on the home row. Many more words can be formed without the fingers leaving the home row.
-Since switching, I've noticed my typing speed dramatically increase. It's gone from 60 wpm on QWERTY to about 80.
+Since switching, I've noticed my typing speed dramatically increase. It's gone from 60 wpm on QWERTY to about 80-90wpm.
+![New Typing Record](/images/monkeytype.png)
