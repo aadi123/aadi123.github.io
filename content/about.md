@@ -9,7 +9,7 @@ was at Amazon for two years (2020-2022) working on the Retail Tax Platform as we
 
 I have also had summer internship positions in Software Engineering at [vAuto](https://www.vauto.com/) and [Amazon](https://www.amazon.com).
 
-My full resumé is available upon request.
+My full résumé is available upon request.
 
 ## Education
 I studied Computer Science at [The University of Texas at Austin](https://www.cs.utexas.edu), and graduated in 2020 with a B.S. in Computer Science. Before that, I graduated in 2016 from Edward S. Marcus High School in Flower Mound, Texas.
