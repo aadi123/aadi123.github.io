@@ -5,7 +5,7 @@ Hello, and welcome to the main landing page for my music! Although my background
 in South Indian Carnātic Classical music, I am also trying to experiment with other genres, such as: devotional,
 light, Indian film music, and western music.
 
-Here is some of the music I have recorded (best enjoyed with headphones).
+<!---Here is some of the music I have recorded (best enjoyed with headphones).
 
 {{< rawhtml >}}
 <figure>
@@ -13,3 +13,4 @@ Here is some of the music I have recorded (best enjoyed with headphones).
   <audio controls src="/audio/ShreeSaraswati.flac"></audio>
 </figure>
 {{< /rawhtml >}}
+--->
