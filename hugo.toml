@@ -1,8 +1,23 @@
 baseURL = 'https://aadityamurthy.com/'
-languageCode = 'en-us'
+defaultContentLanguage = 'en'
 title = 'abhyāsa'
 theme = 'risotto'
 sectionPagesMenu = "main"
+
+[languages]
+  [languages.kn]
+    disabled = false
+    languageCode = 'kn-IN'
+    languageDirection = 'ltr'
+    title = 'ಅಭ್ಯಾಸ'
+    languageName = 'Kannada'
+    weight = 1
+  [languages.en]
+    disabled = false
+    languageCode = 'en-US'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    weight = 2
 
 [params.theme]
 palette = 'base16-onedark'
