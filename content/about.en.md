@@ -18,7 +18,7 @@ I studied Computer Science at [The University of Texas at Austin](https://www.cs
 For fun, I like to play [chess](https://www.uschess.org/msa/MbrDtlTnmtHst.php?13739907) competitively and sing [Carnātic Music](https://en.wikipedia.org/wiki/Carnatic_music), a form of classical music that evolved in the Southern regions of India. I also enjoy reading about and studying South Indian languages, religion, and culture.
 ### Chess
 As many of you know, I was an avid chess player as a kid,
-and I'm trying to keep the hobby up by playing in tournaments and analyzing games. You can view a list of interesting
+and I'm trying to keep the hobby up by analyzing positions. You can view a list of interesting
 positions I come across, either taken from my own games or from others' games, by navigating to the chess-exercises (or as I like to call them, chessercises) section using the navigation bar at the top of the website.
 
 ## Contact
