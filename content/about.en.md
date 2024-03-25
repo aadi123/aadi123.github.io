@@ -15,7 +15,7 @@ My full résumé is available upon request.
 I studied Computer Science at [The University of Texas at Austin](https://www.cs.utexas.edu), and graduated in 2020 with a B.S. in Computer Science. Before that, I graduated in 2016 from Edward S. Marcus High School in Flower Mound, Texas.
 
 ## Hobbies
-For fun, I like to play [chess](https://www.uschess.org/msa/MbrDtlTnmtHst.php?13739907) competitively and sing [Carnātic Music](https://en.wikipedia.org/wiki/Carnatic_music), a form of classical music that evolved in the Southern regions of India. I also enjoy reading about and studying South Indian languages, religion, and culture.
+For fun, I like to play [chess](https://www.uschess.org/msa/MbrDtlTnmtHst.php?13739907) competitively and sing [Carnātic Music](https://en.wikipedia.org/wiki/Carnatic_music), a form of classical music that evolved in the Southern regions of India. I also enjoy reading about and studying South Indian languages and culture.
 ### Chess
 As many of you know, I was an avid chess player as a kid,
 and I'm trying to keep the hobby up by analyzing positions. You can view a list of interesting
