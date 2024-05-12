@@ -2,7 +2,7 @@ baseURL = 'https://aadityamurthy.com/'
 defaultContentLanguage = 'en'
 title = 'abhyāsa'
 theme = 'risotto'
-sectionPagesMenu = "main"
+sectionPagesMenu = 'main'
 
 [languages]
   [languages.kn]
