@@ -6,7 +6,7 @@ date = 2024-05-16T01:39:24-05:00
 ## Background
 The synopsis of the film centers around Dev Patel, aka Monkey Man. He ekes out a
 meager living in an underground fight club, by wearing a gorilla mask
-and getting beat up bloody for cash. Dev, having a traumatic past, finds that the people responsible for his mothers death were part of the city's sinister elite.
+and getting beat up bloody for cash. Dev, having a traumatic past, finds that the people responsible for his mother's death are part of the city's sinister elite.
 As he finds out his true powers, Dev unleashes a fiery campaign of revenge and retribution against the men who took his mother away from him.
 
 ## My Thoughts
