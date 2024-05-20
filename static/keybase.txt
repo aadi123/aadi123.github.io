@@ -1,0 +1,75 @@
+
+==================================================================
+https://keybase.io/amurthy123
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://aadityamurthy.com
+  * I am amurthy123 (https://keybase.io/amurthy123) on keybase.
+  * I have a public key with fingerprint C419 5CF8 3466 F86C F94E  E240 3509 030D 14A4 2DAD
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01019927853ee8486d157b9b55e89482e1dd93707bf5d0d7338caa2b56ff31444e720a",
+      "fingerprint": "c4195cf83466f86cf94ee2403509030d14a42dad",
+      "host": "keybase.io",
+      "key_id": "3509030d14a42dad",
+      "kid": "01019927853ee8486d157b9b55e89482e1dd93707bf5d0d7338caa2b56ff31444e720a",
+      "uid": "e4378cf392274e4ef51424b6a5624e19",
+      "username": "amurthy123"
+    },
+    "service": {
+      "hostname": "aadityamurthy.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1716222747,
+  "expire_in": 157680000,
+  "prev": "9fa02dffeb434503ee9b3249e9f87f8f8f490a041354ff30c905bda0b999346d",
+  "seqno": 31,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMNIAnicrVJ7UFRVHN4VBBdmeWQIjSh5wVB53ce5rx3TQGIqIGmIoSjY7uNc9raw
+d9m9PHZWGMcmcuWlkUCY2ozWqgMzxYQwAQMIYg6kQ/ksYbJiTBgcw5mmTKbuZfS/
+/uycP86c3/m+73znO79xc4AhxPi08bYxYjBswDg5erzSIGV713sRXhE9iMWL2OHK
+AstE6FatdllELAiKoRjL4jRDEhAygKFEjKR5lidJyLCAwSEmiixBozQvkSIq0gTB
+CByH8yQlSQQGAIA0jnJIMiLJjlLocrpkh6rJCgBjSUFiCEBREkMJEgsgxAFKkCiL
+EqiIAQ7gIidqRJvi1hmaOZ5zw1RZ0Wraxrpi7z/w/7PvyhU5CAiaESSCxXEaQAAl
+EgM44CmOpHAAMVYHuqHLwZVDDc2VV7pUmwfDCaQ2GdHqVbIA9Wj1tzzBcKKseh4j
+UwWlXJNwuhRVEZQy7dimqk63RaerHqeOr4a89bGSlZcdohanxqiCLresOBALpiEF
+VdalMRqjcN0nnYzAGqfsglZZR5A0xaDa0O+BVZokK3EoLkoS5AEBSFQLiuUJHLCQ
+lRhaYrQJWJRDAUaQQEsFFViU5EUO5VmW1T5OD9sNKxwKYiEwzSdXqmm65VIHp1a6
+IFJ7bvTtQIMxxBC0epXeZ4YQU8ST7qv7Pvwf0daT4MlNml2yFhd+TfevKjjy5b1j
+ttY/T6Jm78Jmz8u9lY+OFgbaeeX6vqAQn7Gn70F7qrUm/6f5zNzP1hWbsMTAqZsJ
+V+eyI4deL7Jm1qSszwlYW2X3bocZDWhJzO3YQaHvoP+PV3+frfuw1ZeZtyFffG6a
+yrxsjJ7q31J3ffe3g+Y3tsxcvnmWarCDidav9ntq+D1nlYeKP2vbhl2/vhTXgql9
+FzuKOhvno04UjTwzf6sj4dKa1elXGr3tLdcWj2T7Yuoiwj5p837jX77SaUqcbWo+
+sUnYfids4rXgri8W/D+vcVdMvtI5bJpN2zfR0r3U69ycfv5waE3b52Z/zkVb1lhT
++27Tjer+3+JtTF/unkfFOeviertic1q3CgF78yM/HqkNCQq/P5q/a2+9j5+OPpAW
+6u+ojll659DDM+hczqmr256KuBRg3hFe7xof2HHurx5jcUnW0ZjJ5sbSM+rkck+3
+L6XkwMbGjC5fUnjR0Kem5tjiYPHa8caohYHYU8vxBot7+nTwvftt1WPZ4w9mCu8a
+Dm2qHRjemF8nJ8UP9XU3/JhSNlJ4Msiat59ui096N+KX0vOp6faAjtmdmXGJaXnv
+rS0ITRsaXtwaPXT4BXdnxY27F+pn3hJ/uLX4d9h3L47dqRjuKVharD2W6GXeNEdF
+NmWgOz+omaEugGdPF34019T7/PtT/wLH2rDM
+=asf3
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/amurthy123
+
+==================================================================
