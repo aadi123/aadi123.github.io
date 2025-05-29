@@ -4,7 +4,7 @@ description = 'A walkthrough of how I engineered friction into my digital life u
 date = 2025-05-28T21:52:00-05:00
 +++
 
-> "Social media isn’t evil, but it’s not neutral either. You either use it on your terms, or it uses you."
+> Social media isn’t evil, but it’s not neutral either. You either use it on your terms, or it uses you.
 
 At some point in my twenties, I realized I didn’t have a social media problem—I had a **dopamine architecture** problem. My phone, my environment, and my habits were all optimized for **instant distraction**, not long-term focus. So I decided to engineer a solution.
 
