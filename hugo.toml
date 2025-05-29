@@ -24,7 +24,7 @@ palette = 'base16-onedark'
 
 [params.about]
 title = "Aaditya Murthy"
-description = "Coding Monk. Bathroom Singer. Ex-Chess-Player. Boba Enthusiast."
+description = "Coding Monk. Bathroom Singer. Boba Enthusiast."
 
 [security]
   enableInlineShortcodes = true
