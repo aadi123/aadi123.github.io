@@ -24,9 +24,9 @@ To use this stack, there is one hard requirement:
 
 ## Profile Isolation with GrapheneOS {#profile-isolation-with-grapheneos}
 
-As mentioned above, [GrapheneOS](https://grapheneos.org), is a hardened Android OS that allows **completely isolated user profiles\*—as in, different apps, permissions, even notification systems.
+As mentioned above, [GrapheneOS](https://grapheneos.org), is a hardened Android OS that allows **completely isolated user profiles**—as in, different apps, permissions, even notification systems.
 GrapheneOS is great for many reasons...however one of the main reasons grapheneOS becomes
-useful when dealing with social media is through its ability to \*disable user-installed apps**.
+useful when dealing with social media is through its ability to **disable user-installed apps**.
 
 
 ### Here's how I use Graphene's profile isolation along with app blocking: {#here-s-how-i-use-graphene-s-profile-isolation-along-with-app-blocking}
