@@ -1,5 +1,5 @@
 +++
-title = 'How I Regained Control from Social Media: A Psychotechnical Stack'
+title = 'How I Regained Control from Social Media: Building a Psychotechnical Stack for Digital Freedom'
 description = 'A walkthrough of how I engineered friction into my digital life using GrapheneOS, One Sec, and profile isolation to break free from compulsive social media use.'
 date = 2025-05-28T21:52:00-05:00
 +++
@@ -33,7 +33,7 @@ useful when dealing with social media is through its ability to **disable user-i
 
 -   **Main profile**: No social media installed. Keeping only the essential apps in this profile turns my phone into somewhat of a utilitarian device: clean, lean, fast, and free from distractions.
 -   **Social media profile**: Apps like Instagram or Twitter **only exist here**. No shared notifications, accounts, or background processes.
--   Social media is \*disabled by default\*—to use it, I have to:
+-   Social media is **disabled by default**—to use it, I have to:
     1.  Switch to that profile manually
     2.  Re-enable the apps
     3.  Go through a digital “intervention” (next section)
