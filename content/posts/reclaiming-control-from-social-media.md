@@ -55,6 +55,9 @@ Every time I try to open a social app, One Sec:
 -   Offers me a moment to quit instead
 
 This turns impulsive taps into **intentional choices**, weakening the brain’s autopilot loop over time.
+![Breathing animation forces user to take a pause](breathing_animation.png)
+
+![Usage statistics builds awareness](one_sec.png)
 
 
 ## 🧰 Why This Stack Works {#why-this-stack-works}
