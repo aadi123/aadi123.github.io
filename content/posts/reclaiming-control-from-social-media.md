@@ -92,4 +92,4 @@ This isn’t about “quitting” social media outright. It’s about **reclaimi
 
 Contrary to what most productivity Youtubers and self-help gurus suggest, you actually don’t need to go full monk-mode. But if you feel like social media is starting to become too distracting and pulling the focus away from your reality, try this stack. This stack ensures **intentionality** and **awareness** when attempting to access social media without resorting to outright deletion.
 
-_If this post helped you or you want to implement something similar, feel free to reach out or share it. This kind of digital intentionality is how we future-proof our minds and build a more technologically mindful and conscious future._
+_If this post helped you or you want to implement something similar, feel free to reach out or share it. Feel free to also [donate](https://grapheneos.org/donate) to the project (I already have), as it helps the developers of this project out. This kind of digital intentionality is how we future-proof our minds and build a more technologically mindful and conscious future._
