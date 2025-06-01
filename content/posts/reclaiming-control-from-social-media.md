@@ -38,6 +38,8 @@ useful when dealing with social media is through its ability to **disable user-i
     2.  Re-enable the apps
     3.  Go through a digital “intervention” (next section)
 
+    ![Creating different profiles using GrapheneOS is easy](profiles.png)
+
 This adds **contextual and effort-based friction**. It's no longer mindless. I have to make a conscious choice.
 
 
