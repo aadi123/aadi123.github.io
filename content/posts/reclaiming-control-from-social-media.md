@@ -38,7 +38,7 @@ useful when dealing with social media is through its ability to **disable user-i
     2.  Re-enable the apps
     3.  Go through a digital “intervention” (next section)
 
-    ![Creating different profiles using GrapheneOS is easy](profiles.png)
+    ![Creating different profiles using GrapheneOS is easy](/images/profiles.png)
 
 This adds **contextual and effort-based friction**. It's no longer mindless. I have to make a conscious choice.
 
@@ -55,9 +55,9 @@ Every time I try to open a social app, One Sec:
 -   Offers me a moment to quit instead
 
 This turns impulsive taps into **intentional choices**, weakening the brain’s autopilot loop over time.
-![Breathing animation forces user to take a pause](breathing_animation.png)
+![Breathing animation forces user to take a pause](/images/breathing_animation.png)
 
-![Usage statistics builds awareness](one_sec.png)
+![Usage statistics builds awareness](/images/one_sec.png)
 
 
 ## 🧰 Why This Stack Works {#why-this-stack-works}
