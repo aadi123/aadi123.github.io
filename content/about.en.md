@@ -23,7 +23,7 @@ and I'm trying to keep the hobby up by analyzing positions. You can view a list 
 positions I come across, either taken from my own games or from others' games, by navigating to the chess-exercises (or as I like to call them, chessercises) section using the navigation bar at the top of the website.
 
 ## Contact
-I can be contacted at `aaditya at murthy dot me`. You can also use my [public GPG key](https://keybase.io/amurthy123) to send me an encrypted message. I am not currently looking for a new job, but feel free to email me about opportunities at your company if you are a recruiter. Feel free to also reach out if you just want to chat, always looking forward to gaining new ideas and perspectives from other individuals.
+I can be contacted at `aaditya at murthy dot me`. You can also use my [public GPG key](https://keybase.io/amurthy123) to send me an encrypted message. Feel free to email me about opportunities at your company if you are a recruiter, and feel free to also reach out if you just want to chat, always looking forward to gaining new ideas and perspectives from other individuals.
 
 ## Site Information
 This site uses [Hugo](https://gohugo.io/) as a static site generator,
