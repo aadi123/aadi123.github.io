@@ -2,6 +2,7 @@
 title = 'The Importance of PPI'
 date = 2023-12-09T21:31:44-06:00
 description = 'My first blog post'
+draft = true
 +++
 This is my first blog post!! I will attempt to introduce myself and
 my motivations for starting a blog, and also attempt to convince you
