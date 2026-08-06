@@ -1,6 +1,7 @@
 +++
 title = 'Switching to Colemak Mod-DH'
 date = 2024-03-01T21:30:08-06:00
+draft = true
 +++
 That's right, the title says it all. I have officially ditched the traditional
 QWERTY keyboard layout on all keyboards I use for software development.
