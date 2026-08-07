@@ -2,6 +2,7 @@
 title = 'How I Regained Control from Social Media: Building a Psychotechnical Stack for Digital Freedom'
 description = 'A walkthrough of how I engineered friction into my digital life using GrapheneOS, One Sec, and profile isolation to break free from compulsive social media use.'
 date = 2025-05-28T21:52:00-05:00
+draft = true
 +++
 
 > Social media isn’t evil, but it’s not neutral either. You either use it on your terms, or it uses you.
