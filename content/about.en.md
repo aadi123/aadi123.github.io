@@ -1,6 +1,7 @@
 +++
 menus = 'main'
 title = 'About'
+draft = true
 +++
 Hello! I'm Aaditya (ಆದಿತ್ಯ, āditya), a Computer Scientist originally from Flower Mound, Texas.
 
