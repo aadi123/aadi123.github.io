@@ -1,4 +1,4 @@
-baseURL = 'https://aadityamurthy.com/'
+baseURL = 'https://aadi123.github.io/'
 defaultContentLanguage = 'en'
 title = 'abhyāsa'
 theme = 'risotto'
@@ -24,7 +24,7 @@ palette = 'base16-onedark'
 
 [params.about]
 title = "Aaditya Murthy"
-description = "Coding Monk. Bathroom Singer. Boba Enthusiast."
+description = "Make American kannadiGas great Again!"
 
 [security]
   enableInlineShortcodes = true
