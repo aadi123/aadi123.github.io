@@ -1,0 +1,11 @@
+baseURL = 'https://aadi123.github.io/'
+locale = 'en-us'
+title = 'abhyāsa'
+theme = 'risotto-0.5.1'
+
+[params.theme]
+palette = 'gruvbox-dark'
+
+[params.about]
+title = "Aaditya Murthy"
+description = "Eccentric Sanatani and Engineer."
